@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\GKaan\.gradle\jdks\eclipse_adoptium-17-amd64-windows\jdk-17.0.11+9\bin\java.exe
+Arguments: '--inJar, C:\Users\GKaan\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.3.8\forge-1.19.2-43.3.8-injected.jar, --outJar, C:\Users\GKaan\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.3.8_mapped_official_1.19.2\forge-1.19.2-43.3.8_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, D:\Kwok Mods\OwnAddedRecipesMod\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\GKaan\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.0\accesstransformers-8.2.0-fatjar.jar
+Working directory: D:\Kwok Mods\OwnAddedRecipesMod\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
